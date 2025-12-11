@@ -1,0 +1,22 @@
+.dark-borders {
+    border: 2px solid rgba(0, 0, 0, 0.7) !important;
+    border-radius: 10px;
+  }
+  
+  /* Darken cell borders inside the table */
+  .dark-borders td,
+  .dark-borders th {
+    border-color: rgba(0, 0, 0, 0.8) !important;
+    font-size: 20px; 
+  }
+  
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .small-table {
+    width: 1500px; /* adjust value to what you like */
+    max-width: 100%;
+  }
+
