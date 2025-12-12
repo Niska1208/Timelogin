@@ -19,7 +19,7 @@
   </q-page>
 </template>
 
-<script>
+<script lang="ts">
 import api from "src/services/api";
 
 export default {
